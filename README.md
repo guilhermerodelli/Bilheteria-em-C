@@ -4,6 +4,7 @@ Status: desenvolvimento 💻
 
 Linguagem: linguagem C
 
+
 Projeto de faculdade, no qual o objetivo seria criar uma bilheteria online,
 gerendo código de ingresso para cada visitante e fazendo a validação do mesmo.
 
