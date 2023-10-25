@@ -1,6 +1,7 @@
 # Bilheteria-em-C
 
 Status: desenvolvimento 💻
+
 Linguagem: linguagem C
 
 Projeto de faculdade, no qual o objetivo seria criar uma bilheteria online,
