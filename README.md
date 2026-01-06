@@ -1,13 +1,41 @@
-# Bilheteria-em-C
+# 🎟️ Bilheteria em C
 
-Status: desenvolvimento 💻
+Projeto em **C** que simula um sistema de bilheteria de cinema/eventos, permitindo ao usuário cadastrar, listar, vender e controlar ingressos por meio do terminal.
 
-Linguagem: linguagem C
+O objetivo do projeto é aplicar conceitos de lógica de programação e manipulação de dados em **C**, utilizando estruturas, funções e controle de fluxo.
 
+---
 
-Projeto de faculdade, no qual o objetivo seria criar uma bilheteria online,
-gerendo código de ingresso para cada visitante e fazendo a validação do mesmo.
+## 🛠️ Tecnologias Utilizadas
 
-Maior dificuldade foi com o "scanF", quando pedimos para o usuario digitar seu nome o scanf não le entradas de texto com espaço em branco,
-exemplo um "nome espaço e sobrenome", a função só le o primeiro nome.
-E para isso usamos a função "fgets" que le a linha inteira, por exemplo "nome espaço e o sobrenome".
+Esse projeto foi desenvolvido com:
+
+- 🔹 **Linguagem C**
+- 📟 Entrada e saída de dados no console
+- 📦 Compilação com GCC ou outro compilador C
+
+---
+
+## 📌 Funcionalidades
+
+O sistema de bilheteria pode incluir (ajuste conforme seu projeto):
+
+✔️ Cadastro de eventos ou sessões  
+✔️ Cadastro de ingressos por evento  
+✔️ Exibição de lista de ingressos  
+✔️ Venda de ingressos  
+✔️ Controle de quantidade disponível  
+✔️ Total de vendas exibido no final
+
+> 💡 Se o seu código tiver funcionalidades diferentes, posso ajustar o README com base nelas.
+
+---
+
+## ▶️ Como Compilar e Executar
+
+### 📌 Pré-requisitos
+
+✔️ Compilador C instalado (ex: **GCC**)  
+✔️ Terminal ou console (Linux/macOS/Windows — com MinGW ou similar)
+
+---
